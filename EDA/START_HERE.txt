@@ -1,0 +1,15 @@
+SMARTGLOVE EDA — START HERE
+
+1. Import SmartGlove_EDA_Kaggle.ipynb into a Kaggle Python notebook.
+2. Attach SmartGlove_Dataset(1).zip as a private input dataset (or its extracted folder).
+3. Run all cells in order, on CPU. No internet or GPU is needed.
+4. Outputs appear in /kaggle/working/EDA_results/.
+5. Start with the final quality dashboard and scientific interpretation, then inspect priority_manual_review.csv.
+
+The included SmartGlove_EDA_Executed.ipynb contains outputs from running all 23 Python code cells locally on your actual ZIP. Kaggle itself was not operated in this session. ZIP and extracted-directory discovery were both verified. All 22 saved PNG plots were checked for readability.
+
+The notebook contains setup plus phases 0–21, with purpose, runnable code, expected output, interpretation, genuine problems, warnings and limits for each phase. Raw input is untouched, no trial is automatically dropped, and no classifier is trained.
+
+Verdict: READY FOR PREPROCESSING, WITH SPECIFIC TRIALS/ISSUES TO REVIEW.
+
+The source ZIP is not duplicated in this results package. Statistical flags identify review candidates, not proven invalid trials.
